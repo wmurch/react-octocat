@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class OuterImage extends Component {
+class CatProfile extends Component {
   render() {
     return (
       <div class="outer-image">
@@ -19,4 +19,4 @@ class OuterImage extends Component {
   }
 }
 
-export default OuterImage
+export default CatProfile
